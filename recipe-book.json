@@ -1,0 +1,94 @@
+[
+  {
+     "Name" : "Sausage and Peppers",
+     "Ingredients" : [
+       "Sausage",
+       "Bell Peppers",
+       "Bread"
+     ]
+   },
+  {
+     "Name" : "Caprese Salad",
+     "Ingredients" : [
+        "Small Tomatoes",
+        "Mozzarella Balls",
+        "Basil"
+     ]
+  },
+  {
+     "Name" : "Fried Rice",
+     "Ingredients" : [
+        "White Rice",
+        "Egg",
+        "Frozen Carrots, Peas, and Corn",
+        "Sesame Oil",
+        "Soy Sauce",
+        "White Pepper",
+        "White Onion",
+        "Green Onion",
+        "Garlic"
+     ]
+  },
+  {
+     "Name" : "Greek Night",
+     "Ingredients" : [
+        "White Rice",
+        "Chicken",
+        "Zucchini",
+        "Yellow Squash",
+        "Small Tomatoes",
+        "Tzatziki",
+        "Pita"
+     ]
+  },
+  {
+     "Name" : "Breakfast Sandwich",
+     "Ingredients" : [
+        "Eggs",
+        "English Muffin / Bread",
+        "Avocado",
+        "Spinach",
+        "Tomatoes"
+     ]
+  },
+  {
+     "Name" : "Caprese Salad",
+     "Ingredients" : [
+        "Small Tomatoes",
+        "Mozzarella Balls",
+        "Basil"
+     ]
+  },
+  {
+     "Name" : "BBQ Chicken",
+     "Ingredients" : [
+        "Chicken",
+        "BBQ sauce",
+        "Rice",
+        "Green Beans"
+     ]
+  },
+  {
+     "Name" : "Teriaki Chicken Rice Bowl",
+     "Ingredients" : [
+        "Chicken",
+        "Teriaki sauce",
+        "Rice",
+        "Bell Peppers"
+     ]
+  },
+  {
+     "Name" : "Pasta Primavera",
+     "Ingredients" : [
+        "Chicken",
+        "Pasta",
+        "Green Beans",
+        "Carrots",
+        "Zucchini",
+        "Yellow Squash",
+        "Small Tomatoes",
+        "Lemon Juice",
+        "Basil and Parsley"
+     ]
+  }
+]
